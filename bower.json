@@ -1,0 +1,25 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "ayado <913620252@qq.com>"
+  ],
+  "description": "Website for a awesom restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFUsion"
+  ],
+  "license": "ycf",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.4.0",
+    "angular": "^1.5.8"
+  }
+}
